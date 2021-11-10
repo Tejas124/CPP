@@ -1,2 +1,1 @@
-# CPP
-All cpp code
+C++ Hackerrank
